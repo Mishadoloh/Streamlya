@@ -1,5 +1,8 @@
 # Streamlya
 
+![React](https://img.shields.io/badge/React-18-61dafb?logo=react&logoColor=111)
+![Vite](https://img.shields.io/badge/Vite-build-646cff?logo=vite&logoColor=fff)
+
 ![Streamlya preview](docs/preview.png)
 
 Streamlya це веб застосунок для перегляду відео у форматі сучасного відеосервісу. У ньому є головна сторінка з великим плеєром, стрічка рекомендацій, пошук, категорії, бокове меню, сторінка Shorts, підписки, бібліотека, історія переглядів і список для перегляду пізніше.
