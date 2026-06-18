@@ -1,3 +1,4 @@
+import React from 'react';
 window.Streamly = window.Streamly || {};
 
 (function () {

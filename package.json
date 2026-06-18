@@ -1,9 +1,19 @@
 {
-  "name": "streamly-video-platform",
+  "name": "streamlya",
   "version": "1.0.0",
   "private": true,
+  "type": "module",
   "scripts": {
-    "dev": "python -m http.server 4174 --bind 127.0.0.1",
-    "start": "python -m http.server 4174 --bind 127.0.0.1"
+    "dev": "vite --host 127.0.0.1 --port 4174",
+    "build": "vite build",
+    "preview": "vite preview --host 127.0.0.1 --port 4174"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "vite": "^6.0.7"
   }
 }
