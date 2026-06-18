@@ -1,0 +1,1 @@
+import{j as e}from"./index-Dituqgaf.js";window.Streamly=window.Streamly||{};(function(){function o({title:r,subtitle:n}){return e.jsxs("section",{className:"page-header",children:[e.jsx("h1",{children:r}),n&&e.jsx("p",{children:n})]})}window.Streamly.components={...window.Streamly.components||{},PageHeader:o}})();

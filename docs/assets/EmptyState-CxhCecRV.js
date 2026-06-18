@@ -1,0 +1,1 @@
+import{j as n}from"./index-Dituqgaf.js";window.Streamly=window.Streamly||{};(function(){const{Icons:t}=window.Streamly.shared;function e({title:o,text:s}){return n.jsxs("div",{className:"empty-state",children:[n.jsx(t.MonitorPlay,{size:36}),n.jsx("h3",{children:o}),n.jsx("p",{children:s})]})}window.Streamly.components={...window.Streamly.components||{},EmptyState:e}})();

@@ -1,0 +1,1 @@
+import{j as t}from"./index-Dituqgaf.js";window.Streamly=window.Streamly||{};(function(){function o({message:n}){return n?t.jsx("div",{className:"toast",children:n}):null}window.Streamly.components={...window.Streamly.components||{},Toast:o}})();
