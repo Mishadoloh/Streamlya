@@ -1,0 +1,9 @@
+{
+  "name": "streamly-video-platform",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "python -m http.server 4174 --bind 127.0.0.1",
+    "start": "python -m http.server 4174 --bind 127.0.0.1"
+  }
+}
